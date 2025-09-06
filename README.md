@@ -59,8 +59,8 @@ I’m focused on improving my skills, creating useful projects, and growing as a
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaime-vega&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-vega&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaimeMrF&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMrF&layout=compact&theme=radical"/>
 </p>
 
 </div>
