@@ -11,6 +11,7 @@ I’m focused on improving my skills, creating useful projects, and growing as a
 ## 📬 Contact
 <a href="mailto:jaime.ja203@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/jaime-alejandro-vega-barbosa-9220b2302/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+<a href="https://github.com/jaime-vega">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 -------------------
 
@@ -35,6 +36,35 @@ I’m focused on improving my skills, creating useful projects, and growing as a
 </p>
 
 -------------------
+
+## 🖥️ Operating Systems & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+-------------------
+
+## ⚡ Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+
+-------------------
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaime-vega&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-vega&layout=compact&theme=radical"/>
+</p>
+
+</div>
+
   
 ![JaimeVega github stats](https://github-readme-stats.vercel.app/api?username=JaimeMrF&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
