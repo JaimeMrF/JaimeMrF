@@ -9,11 +9,8 @@ I’m focused on improving my skills, creating useful projects, and growing as a
 -------------------
 
 ## 📬 Contact
-<a href="https://www.instagram.com/jaimemrf/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
-<a href="https://twitter.com/">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
-![Discord](https://img.shields.io/badge/JaimeVega%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  
-<a href="mailto:tuemail@example.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/tuusuario/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+<a href="mailto:jaime.ja203@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/jaime-alejandro-vega-barbosa-9220b2302/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
 
 -------------------
 
