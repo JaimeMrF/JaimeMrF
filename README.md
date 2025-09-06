@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 👨‍💻 About Me
-Hi there! 👋 I'm **Jaime Vega**, a **Systems Engineering student** and passionate **full stack developer**.  
+Hi there! 👋 I'm **Jaime Alejandro Vega Barbosa**, a **Systems Engineering student** and passionate **full stack developer**.  
 I love building web applications using **HTML, CSS, JavaScript, React, and Node.js**, and I also enjoy coding in **Python and Java**.  
 
 I’m focused on improving my skills, creating useful projects, and growing as a developer every day 🚀  
