@@ -61,7 +61,6 @@ I’m focused on improving my skills, creating useful projects, and growing as a
   
 ![JaimeVega github stats](https://github-readme-stats.vercel.app/api?username=JaimeMrF&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![JaimeVega github streak](https://github-readme-streak-stats.herokuapp.com/?user=JaimeMrF&theme=radical&include_all_commits=true&count_private=true)
 
 </div>
 
